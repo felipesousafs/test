@@ -31,16 +31,15 @@ module NumerosRomanos
 
     def initialize(numero)
       @num = []
+      @string = numero
       numero.each_char do |n|
         @num << Numero.new(n.to_s)
       end
       @valor = 0
     end
 
-    def self.converter(numero)
-      c = ConverterRomanos.new(numero)
-      puts c.valor
-      c.valor > 0 ? c.valor : "ERRO"
+    def num
+      @num
     end
 
     def valor
@@ -48,13 +47,31 @@ module NumerosRomanos
       @num.each do |n|
         @valor += n.valor
       end
-      @valor
+      if ta_de_boa
+        @valor
+      else
+        "ERRO"
+      end
     end
 
-    def verificar_erros(valor)
-      
-    end
+    def ta_de_boa
+      its_ok = true
+      if @valor == 0
+        its_ok = false
+      end
 
+      @string.each_char do |n|
+        if @string.count(n) > 3
+          its_ok = false
+        end
+      end
+      its_ok
+    end
+  end
+
+  def self.converter(numero)
+    c = ConverterRomanos.new(numero)
+    c.valor
   end
 
 

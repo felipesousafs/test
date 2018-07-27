@@ -31,7 +31,7 @@ module NumerosRomanos
 
     def initialize(numero)
       @num = []
-      @string = numero
+      @string = numero.upcase
       numero.each_char do |n|
         @num << Numero.new(n.to_s)
       end
@@ -63,6 +63,12 @@ module NumerosRomanos
       @string.each_char do |n|
         if @string.count(n) > 3
           its_ok = false
+        else
+          if @string.count(n) == 2
+            if n.rindex("V") or n.rindex("D") or n.rindex("L")
+              its_ok = false
+            end
+          end
         end
       end
       its_ok

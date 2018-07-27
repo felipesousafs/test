@@ -22,10 +22,16 @@ class TestConverterRomanos < Test::Unit::TestCase
     assert_equal("ERRO", @converter_romanos.converter(""))
   end
 
-  def test_duas_letras_validas_iguais
+  def test_duas_letras_iguais_validas
     assert_equal(2, @converter_romanos.converter("II"))
     assert_equal(20, @converter_romanos.converter("xx"))
     assert_equal(200, @converter_romanos.converter("cC"))
+  end
+
+  def test_duas_letras_iguais_invalidas
+    assert_equal("ERRO", @converter_romanos.converter("VV"))
+    assert_equal("ERRO", @converter_romanos.converter("LL"))
+    assert_equal("ERRO", @converter_romanos.converter("DD"))
   end
 
 end

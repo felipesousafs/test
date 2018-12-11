@@ -1,0 +1,6571 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 352,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81063493638457,
+            -5.089075360972887,
+            0.000381217717712
+          ],
+          [
+            -42.81076670766612,
+            -5.088797313638242,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 353,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81046234197169,
+            -5.088987682055534,
+            -0.026310713302126
+          ],
+          [
+            -42.81045505976193,
+            -5.088983741619123,
+            -0.137124515797833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 354,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81046234197169,
+            -5.088987682055534,
+            -0.026310713302126
+          ],
+          [
+            -42.81059226967322,
+            -5.088714183751602,
+            -0.001248776151064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 355,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81059226967322,
+            -5.088714183751602,
+            -0.001248776151064
+          ],
+          [
+            -42.810726418531225,
+            -5.088777962799679,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 356,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810726418531225,
+            -5.088777962799679,
+            0
+          ],
+          [
+            -42.81076670766612,
+            -5.088797313638242,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 357,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810983135241564,
+            -5.08832662619725,
+            -0.184412290621535
+          ],
+          [
+            -42.81098246447271,
+            -5.088323877435033,
+            -0.184433288967872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 358,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81098246447271,
+            -5.088323877435033,
+            -0.184433288967872
+          ],
+          [
+            -42.81098621013296,
+            -5.088317556849478,
+            -0.186526765428095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 359,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81082258564234,
+            -5.088227898792828,
+            -0.383799912214077
+          ],
+          [
+            -42.810778270303466,
+            -5.088201807399531,
+            -0.406441810817349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "35A",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81063575711485,
+            -5.088540642824135,
+            0.065182613186653
+          ],
+          [
+            -42.81066716390571,
+            -5.088534403380095,
+            0.015300028000635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "35B",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066716390571,
+            -5.088534403380095,
+            0.015300028000635
+          ],
+          [
+            -42.81067815269077,
+            -5.088508924801564,
+            -0.050973118995645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "35C",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81067815269077,
+            -5.088508924801564,
+            -0.050973118995645
+          ],
+          [
+            -42.81066640795696,
+            -5.088476878599611,
+            -0.066242194569469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "35D",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066640795696,
+            -5.088476878599611,
+            -0.066242194569469
+          ],
+          [
+            -42.81063575711485,
+            -5.088540642824135,
+            0.065182613186653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "35E",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8107822559216,
+            -5.088224077722817,
+            -0.321782589699565
+          ],
+          [
+            -42.81076041342536,
+            -5.088269628851277,
+            -0.241596082654914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "35F",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8107560149522,
+            -5.08827206621593,
+            -0.250250446598495
+          ],
+          [
+            -42.81074211988391,
+            -5.088301763715876,
+            -0.236422250190757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 360,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810839904221815,
+            -5.088376571207257,
+            -0.173005752475704
+          ],
+          [
+            -42.810830433542044,
+            -5.088371700002257,
+            -0.167180571855498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 361,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81063493638457,
+            -5.089075360972887,
+            0.000381217717712
+          ],
+          [
+            -42.810595265939405,
+            -5.089056118998517,
+            0.082470025236754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 362,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810595265939405,
+            -5.089056118998517,
+            0.082470025236754
+          ],
+          [
+            -42.8105021664519,
+            -5.089007076271788,
+            -0.096413506435926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 363,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8105021664519,
+            -5.089007076271788,
+            -0.096413506435926
+          ],
+          [
+            -42.81046234197169,
+            -5.088987682055534,
+            -0.026310713302126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 364,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810595265939405,
+            -5.089056118998517,
+            0.082470025236754
+          ],
+          [
+            -42.81060653172316,
+            -5.08903204884099,
+            0.050507659025034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 365,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81060653172316,
+            -5.08903204884099,
+            0.050507659025034
+          ],
+          [
+            -42.81061672556864,
+            -5.089010562876402,
+            0.030476124521128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 366,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81061672556864,
+            -5.089010562876402,
+            0.030476124521128
+          ],
+          [
+            -42.81062689070795,
+            -5.088989703811363,
+            0.024076378818227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 367,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062689070795,
+            -5.088989703811363,
+            0.024076378818227
+          ],
+          [
+            -42.81063680971882,
+            -5.08896831517074,
+            0.004806017734433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 368,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81063680971882,
+            -5.08896831517074,
+            0.004806017734433
+          ],
+          [
+            -42.81064642411107,
+            -5.088947928198083,
+            0.010192683639216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 369,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81064642411107,
+            -5.088947928198083,
+            0.010192683639216
+          ],
+          [
+            -42.81065531903086,
+            -5.088928968496327,
+            -0.001430861262191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "36A",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81065531903086,
+            -5.088928968496327,
+            -0.001430861262191
+          ],
+          [
+            -42.81066419574802,
+            -5.088910585383373,
+            -0.514709086019224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "36B",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066419574802,
+            -5.088910585383373,
+            -0.514709086019224
+          ],
+          [
+            -42.810672694555166,
+            -5.088892418396032,
+            -0.017803742490768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "36C",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810672694555166,
+            -5.088892418396032,
+            -0.017803742490768
+          ],
+          [
+            -42.81068205046382,
+            -5.088872760146016,
+            -0.012717044647745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "36D",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81068205046382,
+            -5.088872760146016,
+            -0.012717044647745
+          ],
+          [
+            -42.810691404800544,
+            -5.088852541417053,
+            -0.020792411105068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "36E",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810691404800544,
+            -5.088852541417053,
+            -0.020792411105068
+          ],
+          [
+            -42.8107002828036,
+            -5.088834253390954,
+            -0.006347626896021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "36F",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8107002828036,
+            -5.088834253390954,
+            -0.006347626896021
+          ],
+          [
+            -42.81070935199323,
+            -5.088815416515922,
+            -0.006551403491133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 370,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81070935199323,
+            -5.088815416515922,
+            -0.006551403491133
+          ],
+          [
+            -42.810718010088394,
+            -5.088796916993459,
+            -0.00434593922454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 371,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810718010088394,
+            -5.088796916993459,
+            -0.00434593922454
+          ],
+          [
+            -42.810726418531225,
+            -5.088777962799679,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 372,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8105021664519,
+            -5.089007076271788,
+            -0.096413506435926
+          ],
+          [
+            -42.810512121698906,
+            -5.088985885806741,
+            -0.082143385307109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 373,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810512121698906,
+            -5.088985885806741,
+            -0.082143385307109
+          ],
+          [
+            -42.81052201041274,
+            -5.088965298162615,
+            0.113221590258443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 374,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81052201041274,
+            -5.088965298162615,
+            0.113221590258443
+          ],
+          [
+            -42.81053162397978,
+            -5.08894516298687,
+            0.129787833019849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 375,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81053162397978,
+            -5.08894516298687,
+            0.129787833019849
+          ],
+          [
+            -42.81054127984842,
+            -5.088924703757046,
+            0.133826676347962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 376,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81054127984842,
+            -5.088924703757046,
+            0.133826676347962
+          ],
+          [
+            -42.81055093175271,
+            -5.088904122628532,
+            0.134622219363164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 377,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81055093175271,
+            -5.088904122628532,
+            0.134622219363164
+          ],
+          [
+            -42.81056087947265,
+            -5.088883747067227,
+            -0.069871219841381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 378,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81056087947265,
+            -5.088883747067227,
+            -0.069871219841381
+          ],
+          [
+            -42.810570509206954,
+            -5.088863314445374,
+            -0.062600664118623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 379,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810570509206954,
+            -5.088863314445374,
+            -0.062600664118623
+          ],
+          [
+            -42.8105802368991,
+            -5.08884290435694,
+            -0.068366395208409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "37A",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8105802368991,
+            -5.08884290435694,
+            -0.068366395208409
+          ],
+          [
+            -42.81059028808201,
+            -5.088822724434237,
+            -0.069387520338288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "37B",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81059028808201,
+            -5.088822724434237,
+            -0.069387520338288
+          ],
+          [
+            -42.810599963184806,
+            -5.088802126045948,
+            -0.062606995514976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "37C",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810599963184806,
+            -5.088802126045948,
+            -0.062606995514976
+          ],
+          [
+            -42.810609554618686,
+            -5.08878190265307,
+            -0.04817592317629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "37D",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810609554618686,
+            -5.08878190265307,
+            -0.04817592317629
+          ],
+          [
+            -42.8106192347151,
+            -5.088760943900589,
+            -0.03824145219394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "37E",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81058747714472,
+            -5.088995455746905,
+            -0.000697265307577
+          ],
+          [
+            -42.81060658098092,
+            -5.088954247511492,
+            0.201701191425048
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "37F",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81060658098092,
+            -5.088954247511492,
+            0.201701191425048
+          ],
+          [
+            -42.81062387161603,
+            -5.088917898093672,
+            -0.010040918761424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 380,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062387161603,
+            -5.088917898093672,
+            -0.010040918761424
+          ],
+          [
+            -42.810641364299556,
+            -5.088880762135681,
+            -0.009476791456469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 381,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810641364299556,
+            -5.088880762135681,
+            -0.009476791456469
+          ],
+          [
+            -42.810658785198065,
+            -5.088844170786833,
+            -0.009417135605054
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 382,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810658785198065,
+            -5.088844170786833,
+            -0.009417135605054
+          ],
+          [
+            -42.81067609332548,
+            -5.088807127689371,
+            -0.011512402583945
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 383,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81067609332548,
+            -5.088807127689371,
+            -0.011512402583945
+          ],
+          [
+            -42.81065854194492,
+            -5.088798839141464,
+            -0.008808013722416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 384,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81065854194492,
+            -5.088798839141464,
+            -0.008808013722416
+          ],
+          [
+            -42.8106410617437,
+            -5.088790668240438,
+            -0.012867122929144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 385,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8106410617437,
+            -5.088790668240438,
+            -0.012867122929144
+          ],
+          [
+            -42.81062308974021,
+            -5.088828036635131,
+            -0.032981337496728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 386,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062308974021,
+            -5.088828036635131,
+            -0.032981337496728
+          ],
+          [
+            -42.81060577344284,
+            -5.088864366476621,
+            -0.024174684902723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 387,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81060577344284,
+            -5.088864366476621,
+            -0.024174684902723
+          ],
+          [
+            -42.81058811589039,
+            -5.088901640189756,
+            -0.032078307387156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 388,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81058811589039,
+            -5.088901640189756,
+            -0.032078307387156
+          ],
+          [
+            -42.81057086787622,
+            -5.088937757318131,
+            0.184213429742406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 389,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81057086787622,
+            -5.088937757318131,
+            0.184213429742406
+          ],
+          [
+            -42.81055162990373,
+            -5.08897836802263,
+            -0.04028087011173
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "38A",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81055162990373,
+            -5.08897836802263,
+            -0.04028087011173
+          ],
+          [
+            -42.81056976343173,
+            -5.088986865440789,
+            -0.010289971197108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "38B",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81056976343173,
+            -5.088986865440789,
+            -0.010289971197108
+          ],
+          [
+            -42.81058747714472,
+            -5.088995455746905,
+            -0.000697265307577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "38C",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81056976343173,
+            -5.088986865440789,
+            -0.010289971197108
+          ],
+          [
+            -42.81058909905729,
+            -5.088946225593831,
+            0.210082106773858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "38D",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81058909905729,
+            -5.088946225593831,
+            0.210082106773858
+          ],
+          [
+            -42.8106062124279,
+            -5.0889094464288,
+            -0.002800662206282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "38E",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8106062124279,
+            -5.0889094464288,
+            -0.002800662206282
+          ],
+          [
+            -42.81062382481119,
+            -5.088872503156532,
+            -0.004565804443611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "38F",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062382481119,
+            -5.088872503156532,
+            -0.004565804443611
+          ],
+          [
+            -42.81064095683513,
+            -5.088836075124148,
+            -0.007799831791956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 390,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81064095683513,
+            -5.088836075124148,
+            -0.007799831791956
+          ],
+          [
+            -42.81065854194492,
+            -5.088798839141464,
+            -0.008808013722416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 391,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810658785198065,
+            -5.088844170786833,
+            -0.009417135605054
+          ],
+          [
+            -42.81064095683513,
+            -5.088836075124148,
+            -0.007799831791956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 392,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81064095683513,
+            -5.088836075124148,
+            -0.007799831791956
+          ],
+          [
+            -42.81062308974021,
+            -5.088828036635131,
+            -0.032981337496728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 393,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810641364299556,
+            -5.088880762135681,
+            -0.009476791456469
+          ],
+          [
+            -42.81062382481119,
+            -5.088872503156532,
+            -0.004565804443611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 394,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062382481119,
+            -5.088872503156532,
+            -0.004565804443611
+          ],
+          [
+            -42.81060577344284,
+            -5.088864366476621,
+            -0.024174684902723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 395,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062387161603,
+            -5.088917898093672,
+            -0.010040918761424
+          ],
+          [
+            -42.8106062124279,
+            -5.0889094464288,
+            -0.002800662206282
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 396,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8106062124279,
+            -5.0889094464288,
+            -0.002800662206282
+          ],
+          [
+            -42.81058811589039,
+            -5.088901640189756,
+            -0.032078307387156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 397,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81060658098092,
+            -5.088954247511492,
+            0.201701191425048
+          ],
+          [
+            -42.81058909905729,
+            -5.088946225593831,
+            0.210082106773858
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 398,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81058909905729,
+            -5.088946225593831,
+            0.210082106773858
+          ],
+          [
+            -42.81057086787622,
+            -5.088937757318131,
+            0.184213429742406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 399,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810694855721685,
+            -5.088762956741698,
+            0.011787356136291
+          ],
+          [
+            -42.8106861851418,
+            -5.08878141820456,
+            -0.005144955409712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "39A",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8106861851418,
+            -5.08878141820456,
+            -0.005144955409712
+          ],
+          [
+            -42.81064725568648,
+            -5.088763173420518,
+            -0.016426087386157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "39B",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81064725568648,
+            -5.088763173420518,
+            -0.016426087386157
+          ],
+          [
+            -42.810656293164236,
+            -5.088744622757473,
+            -0.002279821973605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "39C",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81076097483764,
+            -5.088701519668925,
+            -0.789821981916862
+          ],
+          [
+            -42.81075204918927,
+            -5.088720674155224,
+            -0.69545148798334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "39D",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81075204918927,
+            -5.088720674155224,
+            -0.69545148798334
+          ],
+          [
+            -42.810714697799106,
+            -5.088702632680801,
+            -0.489124544245943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "39E",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810714697799106,
+            -5.088702632680801,
+            -0.489124544245943
+          ],
+          [
+            -42.81072259517928,
+            -5.088682954970663,
+            -0.441712416867351
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "39F",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81072259517928,
+            -5.088682954970663,
+            -0.441712416867351
+          ],
+          [
+            -42.81068441546715,
+            -5.08866419493902,
+            -0.228789198165934
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A0",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81068441546715,
+            -5.08866419493902,
+            -0.228789198165934
+          ],
+          [
+            -42.810675145551926,
+            -5.088683315637961,
+            -0.241928177977269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A1",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810675145551926,
+            -5.088683315637961,
+            -0.241928177977269
+          ],
+          [
+            -42.810714697799106,
+            -5.088702632680801,
+            -0.489124544245943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A2",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81072259517928,
+            -5.088682954970663,
+            -0.441712416867351
+          ],
+          [
+            -42.81076097483764,
+            -5.088701519668925,
+            -0.789821981916862
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A3",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810779176162754,
+            -5.088632269267243,
+            -0.225577350004033
+          ],
+          [
+            -42.81079695698337,
+            -5.088594725919005,
+            -0.194839917232657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A4",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81079695698337,
+            -5.088594725919005,
+            -0.194839917232657
+          ],
+          [
+            -42.81081422821813,
+            -5.088558270797552,
+            -0.199407697196735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A5",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81081422821813,
+            -5.088558270797552,
+            -0.199407697196735
+          ],
+          [
+            -42.81082899484107,
+            -5.088526063409371,
+            -0.205385703640041
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A6",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81082899484107,
+            -5.088526063409371,
+            -0.205385703640041
+          ],
+          [
+            -42.810811218002826,
+            -5.088518394096932,
+            -0.21728296496758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A7",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810811218002826,
+            -5.088518394096932,
+            -0.21728296496758
+          ],
+          [
+            -42.81079648185871,
+            -5.088549069038479,
+            -0.187347201443899
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A8",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81079648185871,
+            -5.088549069038479,
+            -0.187347201443899
+          ],
+          [
+            -42.810779039398014,
+            -5.088585830294023,
+            -0.187090567846072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3A9",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810779039398014,
+            -5.088585830294023,
+            -0.187090567846072
+          ],
+          [
+            -42.81079695698337,
+            -5.088594725919005,
+            -0.194839917232657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3AA",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81081422821813,
+            -5.088558270797552,
+            -0.199407697196735
+          ],
+          [
+            -42.81079648185871,
+            -5.088549069038479,
+            -0.187347201443899
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3AB",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81073766627182,
+            -5.088588267301575,
+            -0.108913834668759
+          ],
+          [
+            -42.810756949285974,
+            -5.088548910286432,
+            -0.058209151285446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3AC",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810756949285974,
+            -5.088548910286432,
+            -0.058209151285446
+          ],
+          [
+            -42.8107360105569,
+            -5.088537012476392,
+            -0.063146535375647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3AD",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8107360105569,
+            -5.088537012476392,
+            -0.063146535375647
+          ],
+          [
+            -42.810723426422314,
+            -5.088530842026859,
+            -0.066556353068175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3AE",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810723426422314,
+            -5.088530842026859,
+            -0.066556353068175
+          ],
+          [
+            -42.81070209156905,
+            -5.088520885506192,
+            -0.080570845547482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3AF",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81070209156905,
+            -5.088520885506192,
+            -0.080570845547482
+          ],
+          [
+            -42.81068237522089,
+            -5.088561421890187,
+            -0.049554490857562
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B0",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81068237522089,
+            -5.088561421890187,
+            -0.049554490857562
+          ],
+          [
+            -42.81070372493249,
+            -5.08857175036484,
+            -0.079276299008082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B1",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81070372493249,
+            -5.08857175036484,
+            -0.079276299008082
+          ],
+          [
+            -42.81071613903177,
+            -5.088577666127734,
+            -0.092723652600362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B2",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81071613903177,
+            -5.088577666127734,
+            -0.092723652600362
+          ],
+          [
+            -42.81073766627182,
+            -5.088588267301575,
+            -0.108913834668759
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B3",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81071613903177,
+            -5.088577666127734,
+            -0.092723652600362
+          ],
+          [
+            -42.8107360105569,
+            -5.088537012476392,
+            -0.063146535375647
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B4",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81070372493249,
+            -5.08857175036484,
+            -0.079276299008082
+          ],
+          [
+            -42.810723426422314,
+            -5.088530842026859,
+            -0.066556353068175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B5",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062944601461,
+            -5.088654971190478,
+            0.010030349837178
+          ],
+          [
+            -42.81062351314584,
+            -5.088652210777262,
+            0.023245197502575
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B6",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062351314584,
+            -5.088652210777262,
+            0.023245197502575
+          ],
+          [
+            -42.8105899381408,
+            -5.088636244003313,
+            0.180692927610688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B7",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8105899381408,
+            -5.088636244003313,
+            0.180692927610688
+          ],
+          [
+            -42.81059928422065,
+            -5.088616603566502,
+            0.1648417815304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B8",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81059928422065,
+            -5.088616603566502,
+            0.1648417815304
+          ],
+          [
+            -42.81060837616298,
+            -5.088597640023852,
+            0.177888540604288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3B9",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81060837616298,
+            -5.088597640023852,
+            0.177888540604288
+          ],
+          [
+            -42.810616684756624,
+            -5.088579936592803,
+            0.185523726539146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3BA",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810616684756624,
+            -5.088579936592803,
+            0.185523726539146
+          ],
+          [
+            -42.81062559388007,
+            -5.088561930386009,
+            0.121558319786429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3BB",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062559388007,
+            -5.088561930386009,
+            0.121558319786429
+          ],
+          [
+            -42.81063420533572,
+            -5.088544029358758,
+            0.068313920065762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3BC",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81067407158967,
+            -5.088561433954032,
+            -0.014018930154775
+          ],
+          [
+            -42.81066498675162,
+            -5.088580455382838,
+            0.001106465408971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3BD",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066498675162,
+            -5.088580455382838,
+            0.001106465408971
+          ],
+          [
+            -42.81065584688704,
+            -5.088599274360379,
+            0.025613604454572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3BE",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81065584688704,
+            -5.088599274360379,
+            0.025613604454572
+          ],
+          [
+            -42.81064720431465,
+            -5.088617618639293,
+            0.025029121131815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3BF",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81064720431465,
+            -5.088617618639293,
+            0.025029121131815
+          ],
+          [
+            -42.81063866443962,
+            -5.088636229951069,
+            0.023356632811322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3C0",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81063866443962,
+            -5.088636229951069,
+            0.023356632811322
+          ],
+          [
+            -42.81062944601461,
+            -5.088654971190478,
+            0.010030349837178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3C1",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81063866443962,
+            -5.088636229951069,
+            0.023356632811322
+          ],
+          [
+            -42.81059928422065,
+            -5.088616603566502,
+            0.1648417815304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3C2",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81060837616298,
+            -5.088597640023852,
+            0.177888540604288
+          ],
+          [
+            -42.81064720431465,
+            -5.088617618639293,
+            0.025029121131815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3C3",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81065584688704,
+            -5.088599274360379,
+            0.025613604454572
+          ],
+          [
+            -42.810616684756624,
+            -5.088579936592803,
+            0.185523726539146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3C4",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066498675162,
+            -5.088580455382838,
+            0.001106465408971
+          ],
+          [
+            -42.81062559388007,
+            -5.088561930386009,
+            0.121558319786429
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3C5",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81067407158967,
+            -5.088561433954032,
+            -0.014018930154775
+          ],
+          [
+            -42.81063420533572,
+            -5.088544029358758,
+            0.068313920065762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3CE",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81089766116779,
+            -5.088508387634992,
+            -0.14325501077768
+          ],
+          [
+            -42.81090610444208,
+            -5.088490055976767,
+            -0.17071556864582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3CF",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81090610444208,
+            -5.088490055976767,
+            -0.17071556864582
+          ],
+          [
+            -42.81091421135683,
+            -5.088472781287616,
+            -0.177463377081177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D0",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81091421135683,
+            -5.088472781287616,
+            -0.177463377081177
+          ],
+          [
+            -42.8109235643781,
+            -5.088453172013988,
+            -0.186414115372357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D1",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8109235643781,
+            -5.088453172013988,
+            -0.186414115372357
+          ],
+          [
+            -42.81093223216502,
+            -5.088434768269006,
+            -0.209623668607614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D2",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81093223216502,
+            -5.088434768269006,
+            -0.209623668607614
+          ],
+          [
+            -42.81094090323297,
+            -5.088416611781864,
+            -0.242169686848587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D3",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81094090323297,
+            -5.088416611781864,
+            -0.242169686848587
+          ],
+          [
+            -42.81094950501843,
+            -5.088398124318657,
+            -0.218152452688524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D4",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81094950501843,
+            -5.088398124318657,
+            -0.218152452688524
+          ],
+          [
+            -42.81095804796738,
+            -5.088379881710505,
+            -0.208361835470026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D5",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81095804796738,
+            -5.088379881710505,
+            -0.208361835470026
+          ],
+          [
+            -42.810966574863215,
+            -5.088361589441301,
+            -0.184684794038839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D6",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810966574863215,
+            -5.088361589441301,
+            -0.184684794038839
+          ],
+          [
+            -42.81092569842838,
+            -5.088340632241653,
+            -0.204560842345223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D7",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81092569842838,
+            -5.088340632241653,
+            -0.204560842345223
+          ],
+          [
+            -42.810916461858206,
+            -5.088359971673425,
+            -0.201026987393067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D8",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810916461858206,
+            -5.088359971673425,
+            -0.201026987393067
+          ],
+          [
+            -42.810907944772346,
+            -5.088378726388583,
+            -0.200020198701751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3D9",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810907944772346,
+            -5.088378726388583,
+            -0.200020198701751
+          ],
+          [
+            -42.810899411947766,
+            -5.088396367652904,
+            -0.205606630028072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3DA",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810899411947766,
+            -5.088396367652904,
+            -0.205606630028072
+          ],
+          [
+            -42.81089095841391,
+            -5.088414934425344,
+            -0.20012560854854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3DB",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81089095841391,
+            -5.088414934425344,
+            -0.20012560854854
+          ],
+          [
+            -42.810882456675564,
+            -5.088433945933275,
+            -0.189004446541745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3DC",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810882456675564,
+            -5.088433945933275,
+            -0.189004446541745
+          ],
+          [
+            -42.810873584136374,
+            -5.088452929712742,
+            -0.177380371366244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3DD",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810873584136374,
+            -5.088452929712742,
+            -0.177380371366244
+          ],
+          [
+            -42.81086546107979,
+            -5.088470456264004,
+            -0.170817621604113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3DE",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81086546107979,
+            -5.088470456264004,
+            -0.170817621604113
+          ],
+          [
+            -42.81090610444208,
+            -5.088490055976767,
+            -0.17071556864582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3DF",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81091421135683,
+            -5.088472781287616,
+            -0.177463377081177
+          ],
+          [
+            -42.810873584136374,
+            -5.088452929712742,
+            -0.177380371366244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E0",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810882456675564,
+            -5.088433945933275,
+            -0.189004446541745
+          ],
+          [
+            -42.8109235643781,
+            -5.088453172013988,
+            -0.186414115372357
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E1",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81093223216502,
+            -5.088434768269006,
+            -0.209623668607614
+          ],
+          [
+            -42.81089095841391,
+            -5.088414934425344,
+            -0.20012560854854
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E2",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810899411947766,
+            -5.088396367652904,
+            -0.205606630028072
+          ],
+          [
+            -42.81094090323297,
+            -5.088416611781864,
+            -0.242169686848587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E3",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81094950501843,
+            -5.088398124318657,
+            -0.218152452688524
+          ],
+          [
+            -42.810907944772346,
+            -5.088378726388583,
+            -0.200020198701751
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E4",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81095804796738,
+            -5.088379881710505,
+            -0.208361835470026
+          ],
+          [
+            -42.810916461858206,
+            -5.088359971673425,
+            -0.201026987393067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E5",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81097178087207,
+            -5.088328837786392,
+            -0.187544865497976
+          ],
+          [
+            -42.81096488282192,
+            -5.088307967108717,
+            -0.196332702393896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E6",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81096488282192,
+            -5.088307967108717,
+            -0.196332702393896
+          ],
+          [
+            -42.81092207081385,
+            -5.088317306014806,
+            -0.198474095970789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E7",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81092207081385,
+            -5.088317306014806,
+            -0.198474095970789
+          ],
+          [
+            -42.81092653629634,
+            -5.088338008782717,
+            -0.212604740323076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E8",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81092653629634,
+            -5.088338008782717,
+            -0.212604740323076
+          ],
+          [
+            -42.81097178087207,
+            -5.088328837786392,
+            -0.187544865497976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3E9",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810899639311096,
+            -5.088322466532106,
+            -0.194296353962375
+          ],
+          [
+            -42.810918629359094,
+            -5.088283373286446,
+            -0.17427808054143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3EA",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810918629359094,
+            -5.088283373286446,
+            -0.17427808054143
+          ],
+          [
+            -42.81090069580286,
+            -5.088273335019875,
+            -0.177915469965299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3EB",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81090069580286,
+            -5.088273335019875,
+            -0.177915469965299
+          ],
+          [
+            -42.81088133591596,
+            -5.088312541444211,
+            -0.19786172728184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3EC",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81088133591596,
+            -5.088312541444211,
+            -0.19786172728184
+          ],
+          [
+            -42.810899639311096,
+            -5.088322466532106,
+            -0.194296353962375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3ED",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81090069580286,
+            -5.088273335019875,
+            -0.177915469965299
+          ],
+          [
+            -42.81088265784269,
+            -5.088263961769438,
+            -0.249834585696222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3EE",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81088265784269,
+            -5.088263961769438,
+            -0.249834585696222
+          ],
+          [
+            -42.810863305772834,
+            -5.088303791449452,
+            -0.241479842895332
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3EF",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810863305772834,
+            -5.088303791449452,
+            -0.241479842895332
+          ],
+          [
+            -42.81088133591596,
+            -5.088312541444211,
+            -0.19786172728184
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F0",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810863305772834,
+            -5.088303791449452,
+            -0.241479842895332
+          ],
+          [
+            -42.810845562045344,
+            -5.088294708689932,
+            -0.25436684876129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F1",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810845562045344,
+            -5.088294708689932,
+            -0.25436684876129
+          ],
+          [
+            -42.81086446413887,
+            -5.088254573909865,
+            -0.295971219473976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F2",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81086446413887,
+            -5.088254573909865,
+            -0.295971219473976
+          ],
+          [
+            -42.81088265784269,
+            -5.088263961769438,
+            -0.249834585696222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F3",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81086446413887,
+            -5.088254573909865,
+            -0.295971219473976
+          ],
+          [
+            -42.810822303829326,
+            -5.088233133586275,
+            -0.33549583038581
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F4",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810822303829326,
+            -5.088233133586275,
+            -0.33549583038581
+          ],
+          [
+            -42.81082258564234,
+            -5.088227898792828,
+            -0.383799912214077
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F5",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810871649368366,
+            -5.088353831877587,
+            -0.180338544754788
+          ],
+          [
+            -42.810851881627855,
+            -5.088394895594718,
+            -0.149634702574392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F6",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810851881627855,
+            -5.088394895594718,
+            -0.149634702574392
+          ],
+          [
+            -42.81083519248422,
+            -5.088387114076169,
+            -0.146938281843834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F7",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81083519248422,
+            -5.088387114076169,
+            -0.146938281843834
+          ],
+          [
+            -42.81085380997824,
+            -5.088344847490436,
+            -0.166914917716835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F8",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81085380997824,
+            -5.088344847490436,
+            -0.166914917716835
+          ],
+          [
+            -42.810871649368366,
+            -5.088353831877587,
+            -0.180338544754788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3F9",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81084145479846,
+            -5.088338888310878,
+            -0.206835820715002
+          ],
+          [
+            -42.81082446614149,
+            -5.088373294464433,
+            -0.153310679350604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3FA",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81084145479846,
+            -5.088338888310878,
+            -0.206835820715002
+          ],
+          [
+            -42.81082227047048,
+            -5.0883294190096,
+            -0.216145102858725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3FB",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81082227047048,
+            -5.0883294190096,
+            -0.216145102858725
+          ],
+          [
+            -42.810802916297426,
+            -5.088320584489951,
+            -0.222332718659881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3FC",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810802916297426,
+            -5.088320584489951,
+            -0.222332718659881
+          ],
+          [
+            -42.810786814869715,
+            -5.088356220599207,
+            -0.155318877850523
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3FD",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810786814869715,
+            -5.088356220599207,
+            -0.155318877850523
+          ],
+          [
+            -42.81082446614149,
+            -5.088373294464433,
+            -0.153310679350604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3FE",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062351314584,
+            -5.088652210777262,
+            0.023245197502575
+          ],
+          [
+            -42.81060885745304,
+            -5.088682331095421,
+            0.007119989895238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "3FF",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81060885745304,
+            -5.088682331095421,
+            0.007119989895238
+          ],
+          [
+            -42.810575401233685,
+            -5.088665996884094,
+            0.187969430414749
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 400,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810575401233685,
+            -5.088665996884094,
+            0.187969430414749
+          ],
+          [
+            -42.8105899381408,
+            -5.088636244003313,
+            0.180692927610688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 401,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810786635542485,
+            -5.088678168182831,
+            -0.84618717780478
+          ],
+          [
+            -42.810810197419556,
+            -5.088628041138309,
+            -0.810080948968448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 402,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810810197419556,
+            -5.088628041138309,
+            -0.810080948968448
+          ],
+          [
+            -42.8108176796863,
+            -5.088631666787396,
+            -0.951930660277835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 403,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81077036561222,
+            -5.08872930372614,
+            -0.912815524528477
+          ],
+          [
+            -42.81075204918927,
+            -5.088720674155224,
+            -0.69545148798334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 404,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810786635542485,
+            -5.088678168182831,
+            -0.84618717780478
+          ],
+          [
+            -42.81076894748259,
+            -5.088669634235723,
+            -0.621793510003311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 405,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81076894748259,
+            -5.088669634235723,
+            -0.621793510003311
+          ],
+          [
+            -42.81076549043951,
+            -5.088665400762181,
+            -0.571976397598454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 406,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81076549043951,
+            -5.088665400762181,
+            -0.571976397598454
+          ],
+          [
+            -42.810763309330355,
+            -5.088660577003936,
+            -0.494431643243109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 407,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810763309330355,
+            -5.088660577003936,
+            -0.494431643243109
+          ],
+          [
+            -42.81076231140603,
+            -5.088655172966521,
+            -0.406032316974847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 408,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81076231140603,
+            -5.088655172966521,
+            -0.406032316974847
+          ],
+          [
+            -42.81076221749566,
+            -5.088649947601009,
+            -0.344814614161915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 409,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81076221749566,
+            -5.088649947601009,
+            -0.344814614161915
+          ],
+          [
+            -42.810763678281084,
+            -5.088645636573893,
+            -0.295214422776421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "40A",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810763678281084,
+            -5.088645636573893,
+            -0.295214422776421
+          ],
+          [
+            -42.81076665992876,
+            -5.088640931134618,
+            -0.23994999295186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "40B",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81076665992876,
+            -5.088640931134618,
+            -0.23994999295186
+          ],
+          [
+            -42.81077015478357,
+            -5.088637222343842,
+            -0.19045755830672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "40C",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81077015478357,
+            -5.088637222343842,
+            -0.19045755830672
+          ],
+          [
+            -42.810774245673024,
+            -5.088634242540801,
+            -0.170607979963965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "40D",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810774245673024,
+            -5.088634242540801,
+            -0.170607979963965
+          ],
+          [
+            -42.810779176162754,
+            -5.088632269267243,
+            -0.225577350004033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "40E",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066275851066,
+            -5.088707969558381,
+            -0.271398132765145
+          ],
+          [
+            -42.810660660954476,
+            -5.088704956040089,
+            -0.246805849844959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "40F",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810660660954476,
+            -5.088704956040089,
+            -0.246805849844959
+          ],
+          [
+            -42.81065918740448,
+            -5.088702689947329,
+            -0.229546445227369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 410,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81065918740448,
+            -5.088702689947329,
+            -0.229546445227369
+          ],
+          [
+            -42.81065816110453,
+            -5.088699014705619,
+            -0.218232058037863
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 411,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81065816110453,
+            -5.088699014705619,
+            -0.218232058037863
+          ],
+          [
+            -42.81065794979217,
+            -5.088695733951128,
+            -0.198535785851047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 412,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81065794979217,
+            -5.088695733951128,
+            -0.198535785851047
+          ],
+          [
+            -42.81065882897156,
+            -5.088692681823355,
+            -0.189615485402448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 413,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81065882897156,
+            -5.088692681823355,
+            -0.189615485402448
+          ],
+          [
+            -42.810660436724255,
+            -5.088689118365813,
+            -0.194363437478101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 414,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810660436724255,
+            -5.088689118365813,
+            -0.194363437478101
+          ],
+          [
+            -42.810662852903825,
+            -5.088686491158737,
+            -0.197067874976579
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 415,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810662852903825,
+            -5.088686491158737,
+            -0.197067874976579
+          ],
+          [
+            -42.81066625823342,
+            -5.088684335150376,
+            -0.202860999332948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 416,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066625823342,
+            -5.088684335150376,
+            -0.202860999332948
+          ],
+          [
+            -42.81066962047537,
+            -5.088683203228342,
+            -0.217774926780321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 417,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066962047537,
+            -5.088683203228342,
+            -0.217774926780321
+          ],
+          [
+            -42.810675145551926,
+            -5.088683315637961,
+            -0.241928177977269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 418,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81084479413093,
+            -5.088493601671161,
+            -0.144854589883484
+          ],
+          [
+            -42.81084642130305,
+            -5.088491116928273,
+            -0.148382569983011
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 419,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81084642130305,
+            -5.088491116928273,
+            -0.148382569983011
+          ],
+          [
+            -42.810848485479255,
+            -5.088489520950502,
+            -0.147667987276287
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "41A",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810848485479255,
+            -5.088489520950502,
+            -0.147667987276287
+          ],
+          [
+            -42.81085193029573,
+            -5.088488201516106,
+            -0.150201314351633
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "41B",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81085193029573,
+            -5.088488201516106,
+            -0.150201314351633
+          ],
+          [
+            -42.81085631002923,
+            -5.08848806059142,
+            -0.150756861039254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "41C",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81085631002923,
+            -5.08848806059142,
+            -0.150756861039254
+          ],
+          [
+            -42.810859196514414,
+            -5.088489832564264,
+            -0.152957548485489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "41D",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810859196514414,
+            -5.088489832564264,
+            -0.152957548485489
+          ],
+          [
+            -42.81089766116779,
+            -5.088508387634992,
+            -0.14325501077768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "41E",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81083572890953,
+            -5.08851257599988,
+            -0.141437416504565
+          ],
+          [
+            -42.81084479413093,
+            -5.088493601671161,
+            -0.144854589883484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "41F",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81082227047048,
+            -5.0883294190096,
+            -0.216145102858725
+          ],
+          [
+            -42.810805446460826,
+            -5.088364669537935,
+            -0.129047319208103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 420,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81077487387296,
+            -5.088510648271034,
+            -0.097345535385784
+          ],
+          [
+            -42.8107914342824,
+            -5.088518743316404,
+            -0.116288286072144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 421,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8107914342824,
+            -5.088518743316404,
+            -0.116288286072144
+          ],
+          [
+            -42.8108108730541,
+            -5.08847829933404,
+            -0.114123687790083
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 422,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8108108730541,
+            -5.08847829933404,
+            -0.114123687790083
+          ],
+          [
+            -42.810829857273795,
+            -5.088438894169261,
+            -0.128703451172817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 423,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810829857273795,
+            -5.088438894169261,
+            -0.128703451172817
+          ],
+          [
+            -42.810814464144784,
+            -5.088430668858875,
+            -0.133178066720446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 424,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810814464144784,
+            -5.088430668858875,
+            -0.133178066720446
+          ],
+          [
+            -42.810794974057295,
+            -5.088470509377755,
+            -0.106754163114454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 425,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810794974057295,
+            -5.088470509377755,
+            -0.106754163114454
+          ],
+          [
+            -42.81078273550353,
+            -5.08849588144458,
+            -0.104347489383348
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 426,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81078273550353,
+            -5.08849588144458,
+            -0.104347489383348
+          ],
+          [
+            -42.81077487387296,
+            -5.088510648271034,
+            -0.097345535385784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 427,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8108108730541,
+            -5.08847829933404,
+            -0.114123687790083
+          ],
+          [
+            -42.810794974057295,
+            -5.088470509377755,
+            -0.106754163114454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": 428,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810747551801676,
+            -5.088544592365678,
+            -0.173524066649954
+          ],
+          [
+            -42.810752880343415,
+            -5.088534263448063,
+            -0.094878135384773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "42C",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81059226967322,
+            -5.088714183751602,
+            -0.001248776151064
+          ],
+          [
+            -42.81060885745304,
+            -5.088682331095421,
+            0.007119989895238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "HIDDEN2",
+        "EntityHand": "42D",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81060885745304,
+            -5.088682331095421,
+            0.007119989895238
+          ],
+          [
+            -42.81066275851066,
+            -5.088707969558381,
+            -0.271398132765145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": "Continuous",
+        "EntityHand": "42E",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81077036561222,
+            -5.08872930372614,
+            -0.912815524528477
+          ],
+          [
+            -42.8108176796863,
+            -5.088631666787396,
+            -0.951930660277835
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": "42F",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810718010088394,
+            -5.088796916993459,
+            -0.00434593922454
+          ],
+          [
+            -42.81075783144003,
+            -5.088816043156826,
+            -0.00434593922454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 430,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81070935199323,
+            -5.088815416515922,
+            -0.006551403491133
+          ],
+          [
+            -42.81074908444681,
+            -5.088834499982316,
+            -0.006551403491133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 431,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8107002828036,
+            -5.088834253390954,
+            -0.006347626896021
+          ],
+          [
+            -42.81074013099599,
+            -5.088853392447345,
+            -0.006347626896021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 432,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810691404800544,
+            -5.088852541417053,
+            -0.020792411105068
+          ],
+          [
+            -42.810731424873765,
+            -5.088871763028404,
+            -0.020792411105068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 433,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81068205046382,
+            -5.088872760146016,
+            -0.012717044647745
+          ],
+          [
+            -42.81072188509336,
+            -5.088891892689675,
+            -0.012717044647745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 434,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810672694555166,
+            -5.088892418396032,
+            -0.017803742490768
+          ],
+          [
+            -42.81071256139051,
+            -5.088911566408856,
+            -0.017803742490768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 435,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066419574802,
+            -5.088910585383373,
+            -0.514709086019224
+          ],
+          [
+            -42.81070397230183,
+            -5.08892969003475,
+            -0.514709086019224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 436,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81065531903086,
+            -5.088928968496327,
+            -0.001430861262191
+          ],
+          [
+            -42.81069522970744,
+            -5.088948137567513,
+            -0.001430861262191
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 437,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81064642411107,
+            -5.088947928198083,
+            0.010192683639216
+          ],
+          [
+            -42.81068626114833,
+            -5.088967061901048,
+            0.010192683639216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 438,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81063680971882,
+            -5.08896831517074,
+            0.004806017734433
+          ],
+          [
+            -42.810676608195806,
+            -5.088987430354021,
+            0.004806017734433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 439,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81062689070795,
+            -5.088989703811363,
+            0.024076378818227
+          ],
+          [
+            -42.81066651207241,
+            -5.089008733928431,
+            0.024076378818227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": "43A",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81061672556864,
+            -5.089010562876402,
+            0.030476124521128
+          ],
+          [
+            -42.81065657475154,
+            -5.089029702415343,
+            0.030476124521128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": "43B",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81060653172316,
+            -5.08903204884099,
+            0.050507659025034
+          ],
+          [
+            -42.81064639009592,
+            -5.089051192794638,
+            0.050507659025034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": "43C",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8106192347151,
+            -5.088760943900589,
+            -0.03824145219394
+          ],
+          [
+            -42.81057919235384,
+            -5.088741711576008,
+            -0.03824145219394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": "43D",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810609554618686,
+            -5.08878190265307,
+            -0.04817592317629
+          ],
+          [
+            -42.81056928709956,
+            -5.088762562184478,
+            -0.04817592317629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": "43E",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810599963184806,
+            -5.088802126045948,
+            -0.062606995514976
+          ],
+          [
+            -42.81055968275452,
+            -5.088782779375363,
+            -0.062606995514976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": "43F",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81059028808201,
+            -5.088822724434237,
+            -0.069387520338288
+          ],
+          [
+            -42.810549917815734,
+            -5.088803334614652,
+            -0.069387520338288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 440,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.8105802368991,
+            -5.08884290435694,
+            -0.068366395208409
+          ],
+          [
+            -42.81054024487091,
+            -5.088823696204122,
+            -0.068366395208409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 441,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810570509206954,
+            -5.088863314445374,
+            -0.062600664118623
+          ],
+          [
+            -42.81053054299506,
+            -5.08884411869131,
+            -0.062600664118623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 442,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81056087947265,
+            -5.088883747067227,
+            -0.069871219841381
+          ],
+          [
+            -42.8105208506011,
+            -5.088864521216961,
+            -0.069871219841381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 443,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81055093175271,
+            -5.088904122628532,
+            0.134622219363164
+          ],
+          [
+            -42.81051112120181,
+            -5.088885001636794,
+            0.134622219363164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 444,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81054127984842,
+            -5.088924703757046,
+            0.133826676347962
+          ],
+          [
+            -42.81050136724476,
+            -5.08890553374861,
+            0.133826676347962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 445,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81053162397978,
+            -5.08894516298687,
+            0.129787833019849
+          ],
+          [
+            -42.810491659701015,
+            -5.088925968158128,
+            0.129787833019849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 446,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81052201041274,
+            -5.088965298162615,
+            0.113221590258443
+          ],
+          [
+            -42.81048208535999,
+            -5.088946122173325,
+            0.113221590258443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 447,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810512121698906,
+            -5.088985885806741,
+            -0.082143385307109
+          ],
+          [
+            -42.810472284885506,
+            -5.088966752197964,
+            -0.082143385307109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 448,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810983135241564,
+            -5.08832662619725,
+            -0.184412290621535
+          ],
+          [
+            -42.810966574863215,
+            -5.088361589441301,
+            -0.184684794038839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "Desenho",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": 449,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81066275851066,
+            -5.088707969558381,
+            -0.271398132765145
+          ],
+          [
+            -42.81075857333482,
+            -5.088753989346372,
+            -0.271398132765145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "COTAS",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": "44A",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81076670766612,
+            -5.088797313638242,
+            0
+          ],
+          [
+            -42.810993765142975,
+            -5.088326435635068,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": "COTAS",
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": "44B",
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810986894306666,
+            -5.088306832488085,
+            0
+          ],
+          [
+            -42.810778270303466,
+            -5.088201807399531,
+            -0.406441810817349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810993765142975,
+            -5.088326435635068,
+            0
+          ],
+          [
+            -42.810986894306666,
+            -5.088306832488085,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81098621013296,
+            -5.088317556849478,
+            -0.186526765428095
+          ],
+          [
+            -42.810918629359094,
+            -5.088283373286446,
+            -0.17427808054143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810778270303466,
+            -5.088201807399531,
+            -0.406441810817349
+          ],
+          [
+            -42.810718971072525,
+            -5.088324319160837,
+            0
+          ],
+          [
+            -42.810735644332524,
+            -5.088332362338653,
+            0
+          ],
+          [
+            -42.81066640795696,
+            -5.088476878599611,
+            -0.066242194569469
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810845562045344,
+            -5.088294708689932,
+            -0.25436684876129
+          ],
+          [
+            -42.81082467481309,
+            -5.088284124946307,
+            0
+          ],
+          [
+            -42.81084419547684,
+            -5.088244266427323,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81082467481309,
+            -5.088284124946307,
+            0
+          ],
+          [
+            -42.810806031591206,
+            -5.088275662638219,
+            0
+          ],
+          [
+            -42.8108246844332,
+            -5.088234344982873,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810786814869715,
+            -5.088356220599207,
+            0
+          ],
+          [
+            -42.81073497026076,
+            -5.088332037166559,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810802916297426,
+            -5.088320584489951,
+            0
+          ],
+          [
+            -42.81077689208786,
+            -5.088308308319058,
+            0
+          ],
+          [
+            -42.81076022607709,
+            -5.088343817954732,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81073497026076,
+            -5.088332037166559,
+            0
+          ],
+          [
+            -42.8107504173687,
+            -5.088295683486768,
+            0
+          ],
+          [
+            -42.81077689208786,
+            -5.088308308319058,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810806031591206,
+            -5.088275662638219,
+            0
+          ],
+          [
+            -42.81078589716237,
+            -5.088266320371869,
+            0
+          ],
+          [
+            -42.81080526067416,
+            -5.088224372429755,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810822303829326,
+            -5.088233133586275,
+            0
+          ],
+          [
+            -42.81080526067416,
+            -5.088224372429755,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.810848485479255,
+            -5.088489520950502,
+            0
+          ],
+          [
+            -42.81082749177799,
+            -5.088480167607838,
+            0
+          ],
+          [
+            -42.810811218002826,
+            -5.088518394096932,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Layer": null,
+        "SubClasses": null,
+        "ExtendedEn": null,
+        "Linetype": null,
+        "EntityHand": null,
+        "Text": null
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -42.81083572890953,
+            -5.08851257599988,
+            0
+          ],
+          [
+            -42.81082899484107,
+            -5.088526063409371,
+            0
+          ]
+        ]
+      }
+    }
+  ]
+}
